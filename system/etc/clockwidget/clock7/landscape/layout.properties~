@@ -1,0 +1,30 @@
+spanX = 4
+spanY = 3
+
+clock.day=clock_day_clock
+clock.night=clock_day_clock
+
+text.size=10
+text.color=FF000000
+text.shadow.radius=1.0
+text.shadow.dx=0.5
+text.shadow.dy=0.5
+text.shadow.color=FFDCDCDC
+text.color.night=FF000000
+text.shadow.color.night=FF232323
+
+hour=clock_hour
+hour.cx=125
+hour.cy=125
+minute=clock_minute
+minute.cx=125
+minute.cy=125
+second=clock_second
+second.cx=125
+second.cy=125
+alarm=clock_alarm
+alarm.cx=118
+alarm.cy=122
+dot=clock_center_dot
+dot.cx=125
+dot.cy=125

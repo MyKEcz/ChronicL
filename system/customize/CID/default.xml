@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customization_form>
+  <category name="system">
+    <module name="locale">
+      <function>
+        <set name="single">
+          <item name="total_list">en_AT;en_CH;en_DE;en_ES;en_FR;en_GB;en_GR;en_IT;en_NL;en_PT;en_RU;en_NO;en_DK;en_SE;en_FI;en_CZ;en_PL;en_RO;en_HU;en_SK;en_ZA;en_IL;en_IE;en_LV;en_EE;en_LT;en_LU;en_UA;fr_AT;fr_DE;fr_ES;fr_FR;fr_GB;fr_NL;fr_ZA;fr_IT;fr_IL;fr_LU;it_AT;it_CH;it_DE;it_GB;it_IT;it_IL;es_ES;es_GB;es_IL;nl_NL;nl_LU;de_AT;de_CH;de_DE;de_ES;de_NL;de_IT;de_LU;el_GR;pt_PT;pt_ZA;nb_NO;nb_DK;nb_SE;nb_FI;da_NO;da_DK;da_SE;da_FI;sv_NO;sv_DK;sv_SE;sv_FI;cs_CZ;cs_PL;cs_RO;cs_HU;cs_SK;cs_LV;cs_EE;cs_LT;pl_CZ;pl_PL;pl_RO;pl_HU;pl_SK;pl_LV;pl_EE;pl_LT;ru_CZ;ru_PL;ru_RO;ru_HU;ru_SK;ru_RU;ru_LV;ru_EE;ru_LT;ru_UA;fi_FI;</item>
+          <item type="boolean" name="en_AT">yes</item>
+          <item type="boolean" name="en_CH">yes</item>
+          <item type="boolean" name="en_DE">yes</item>
+          <item type="boolean" name="en_ES">yes</item>
+          <item type="boolean" name="en_FR">yes</item>
+          <item type="boolean" name="en_GB">yes</item>
+          <item type="boolean" name="en_GR">yes</item>
+          <item type="boolean" name="en_IT">yes</item>
+          <item type="boolean" name="en_NL">yes</item>
+          <item type="boolean" name="en_PT">yes</item>
+          <item type="boolean" name="en_RU">yes</item>
+          <item type="boolean" name="en_NO">yes</item>
+          <item type="boolean" name="en_DK">yes</item>
+          <item type="boolean" name="en_SE">yes</item>
+          <item type="boolean" name="en_FI">yes</item>
+          <item type="boolean" name="en_CZ">yes</item>
+          <item type="boolean" name="en_PL">yes</item>
+          <item type="boolean" name="en_RO">yes</item>
+          <item type="boolean" name="en_HU">yes</item>
+          <item type="boolean" name="en_SK">yes</item>
+          <item type="boolean" name="en_ZA">yes</item>
+          <item type="boolean" name="en_IL">yes</item>
+          <item type="boolean" name="en_IE">yes</item>
+          <item type="boolean" name="en_LV">yes</item>
+          <item type="boolean" name="en_EE">yes</item>
+          <item type="boolean" name="en_LT">yes</item>
+          <item type="boolean" name="en_LU">yes</item>
+          <item type="boolean" name="en_UA">yes</item>
+          <item type="boolean" name="fr_AT">yes</item>
+          <item type="boolean" name="fr_DE">yes</item>
+          <item type="boolean" name="fr_ES">yes</item>
+          <item type="boolean" name="fr_FR">yes</item>
+          <item type="boolean" name="fr_GB">yes</item>
+          <item type="boolean" name="fr_NL">yes</item>
+          <item type="boolean" name="fr_ZA">yes</item>
+          <item type="boolean" name="fr_IT">yes</item>
+          <item type="boolean" name="fr_IL">yes</item>
+          <item type="boolean" name="fr_LU">yes</item>
+          <item type="boolean" name="it_AT">yes</item>
+          <item type="boolean" name="it_CH">yes</item>
+          <item type="boolean" name="it_DE">yes</item>
+          <item type="boolean" name="it_GB">yes</item>
+          <item type="boolean" name="it_IT">yes</item>
+          <item type="boolean" name="it_IL">yes</item>
+          <item type="boolean" name="es_ES">yes</item>
+          <item type="boolean" name="es_GB">yes</item>
+          <item type="boolean" name="es_IL">yes</item>
+          <item type="boolean" name="nl_NL">yes</item>
+          <item type="boolean" name="nl_LU">yes</item>
+          <item type="boolean" name="de_AT">yes</item>
+          <item type="boolean" name="de_CH">yes</item>
+          <item type="boolean" name="de_DE">yes</item>
+          <item type="boolean" name="de_ES">yes</item>
+          <item type="boolean" name="de_NL">yes</item>
+          <item type="boolean" name="de_IT">yes</item>
+          <item type="boolean" name="de_LU">yes</item>
+          <item type="boolean" name="el_GR">yes</item>
+          <item type="boolean" name="pt_PT">yes</item>
+          <item type="boolean" name="pt_ZA">yes</item>
+          <item type="boolean" name="nb_NO">yes</item>
+          <item type="boolean" name="nb_DK">yes</item>
+          <item type="boolean" name="nb_SE">yes</item>
+          <item type="boolean" name="nb_FI">yes</item>
+          <item type="boolean" name="da_NO">yes</item>
+          <item type="boolean" name="da_DK">yes</item>
+          <item type="boolean" name="da_SE">yes</item>
+          <item type="boolean" name="da_FI">yes</item>
+          <item type="boolean" name="sv_NO">yes</item>
+          <item type="boolean" name="sv_DK">yes</item>
+          <item type="boolean" name="sv_SE">yes</item>
+          <item type="boolean" name="sv_FI">yes</item>
+          <item type="boolean" name="cs_CZ">yes</item>
+          <item type="boolean" name="cs_PL">yes</item>
+          <item type="boolean" name="cs_RO">yes</item>
+          <item type="boolean" name="cs_HU">yes</item>
+          <item type="boolean" name="cs_SK">yes</item>
+          <item type="boolean" name="cs_LV">yes</item>
+          <item type="boolean" name="cs_EE">yes</item>
+          <item type="boolean" name="cs_LT">yes</item>
+          <item type="boolean" name="pl_CZ">yes</item>
+          <item type="boolean" name="pl_PL">yes</item>
+          <item type="boolean" name="pl_RO">yes</item>
+          <item type="boolean" name="pl_HU">yes</item>
+          <item type="boolean" name="pl_SK">yes</item>
+          <item type="boolean" name="pl_LV">yes</item>
+          <item type="boolean" name="pl_EE">yes</item>
+          <item type="boolean" name="pl_LT">yes</item>
+          <item type="boolean" name="ru_CZ">yes</item>
+          <item type="boolean" name="ru_PL">yes</item>
+          <item type="boolean" name="ru_RO">yes</item>
+          <item type="boolean" name="ru_HU">yes</item>
+          <item type="boolean" name="ru_SK">yes</item>
+          <item type="boolean" name="ru_RU">yes</item>
+          <item type="boolean" name="ru_LV">yes</item>
+          <item type="boolean" name="ru_EE">yes</item>
+          <item type="boolean" name="ru_LT">yes</item>
+          <item type="boolean" name="ru_UA">yes</item>
+          <item type="boolean" name="fi_FI">yes</item>
+        </set>
+      </function>
+    </module>
+    <module name="Settings">
+      <function name="screen_timeout">
+        <set name="plenty">
+          <item name="value1">15000</item>
+          <item name="value2">30000</item>
+          <item name="value3">60000</item>
+          <item name="value4">120000</item>
+          <item name="value5">600000</item>
+          <item name="value6">1800000</item>
+        </set>
+      </function>
+    </module>
+    <module name="InputMethod">
+      <function name="IME_language_set">
+        <set name="single">
+          <item type="boolean" name="English">yes</item>
+          <item type="boolean" name="German">yes</item>
+          <item type="boolean" name="France">yes</item>
+          <item type="boolean" name="Italian">yes</item>
+          <item type="boolean" name="Spanish">yes</item>
+          <item type="boolean" name="Russian">yes</item>
+          <item type="boolean" name="Czech">yes</item>
+          <item type="boolean" name="Danish">yes</item>
+          <item type="boolean" name="Swedish">yes</item>
+          <item type="boolean" name="Norwegian">yes</item>
+          <item type="boolean" name="Dutch">yes</item>
+          <item type="boolean" name="Polish">yes</item>
+          <item type="boolean" name="Portugal">yes</item>
+          <item type="boolean" name="Greek">yes</item>
+        </set>
+      </function>
+    </module>
+    <module name="deviceData">
+      <function>
+        <set name="single">
+          <item name="device_name">HTC Legend</item>
+        </set>
+      </function>
+    </module>
+    <module name="deviceData1">
+      <function>
+        <set name="single">
+          <item name="sw_number">NA</item>
+        </set>
+      </function>
+    </module>
+  </category>
+  <category name="application">
+    <module name="Crash_Report">
+      <function name="setting">
+        <set name="single">
+          <item name="turn_off_report" type="boolean">no</item>
+        </set>
+      </function>
+    </module>
+    <module name="OOBE">
+      <function name="Block_No_SIM">
+        <set name="single">
+          <item name="Default" type="boolean">no</item>
+        </set>
+      </function>
+      <function name="Step_Config">
+        <set name="single">
+          <item name="Set_Language" type="boolean">yes</item>
+          <item name="SIP_Tutorial" type="boolean">yes</item>
+          <item name="Wi-Fi" type="boolean">yes</item>
+          <item name="Data_Sync" type="boolean">no</item>
+          <item name="Account_Setup" type="boolean">yes</item>
+          <item name="Social_Network_Setup" type="boolean">yes</item>
+          <item name="Tutorial" type="boolean">yes</item>
+        </set>
+      </function>
+      <function name="Data_Sync_Config">
+        <set name="single">
+          <item name="Default" type="boolean">yes</item>
+        </set>
+      </function>
+      <function name="Account_Config">
+        <set name="single">
+          <item name="Orange_Mail" type="boolean">no</item>
+          <item name="Exchange" type="boolean">yes</item>
+          <item name="GMail" type="boolean">yes</item>
+          <item name="Other_Mail" type="boolean">yes</item>
+        </set>
+      </function>
+      <function name="Social_Network_Config">
+        <set name="single">
+          <item name="Facebook" type="boolean">yes</item>
+          <item name="Flickr" type="boolean">yes</item>
+          <item name="Twitter" type="boolean">yes</item>
+          <item name="Plurk" type="boolean">yes</item>
+        </set>
+      </function>
+      <function name="Default_Home_Config">
+        <set name="single">
+          <item name="Set_HTC_Home" type="boolean">yes</item>
+        </set>
+      </function>
+    </module>
+    <module name="Footprints">
+      <function name="settings">
+        <set name="settings">
+          <item name="retrieve_address">true</item>
+          <item name="show_location_disasble_alert">true</item>
+          <item name="show_connection_failed_alert">true</item>
+          <item name="serial_number">0</item>
+          <item name="list_sort">create_time desc</item>
+          <item name="camera_white_balance">0</item>
+          <item name="camera_brightness">5</item>
+        </set>
+      </function>
+      <function name="kmz">
+        <set name="single">
+          <item name="kmz_path">/system/customize/resource/preset.kmz</item>
+        </set>
+      </function>
+      <function name="preset">
+        <set name="plenty" max="13">
+          <item name="name">Big Ben</item>
+          <item name="create_date">1239629156966</item>
+          <item name="category">favorite</item>
+          <item name="rate">3</item>
+          <item name="accuracy">3</item>
+          <item name="latitude">51500605</item>
+          <item name="longitude">-124608</item>
+          <item name="addr">House of Commons, Westminster, London, UK</item>
+          <item name="comment">Hearing Big Ben was amazing – everyone's hoping the great weather keeps up.</item>
+          <item name="pic_filename">/system/customize/resource/BigBen.jpg</item>
+        </set>
+        <set name="plenty" max="13">
+          <item name="name">Eiffel Tower</item>
+          <item name="create_date">1239629156965</item>
+          <item name="category">favorite</item>
+          <item name="rate">3</item>
+          <item name="accuracy">3</item>
+          <item name="latitude">48858300</item>
+          <item name="longitude">2294500</item>
+          <item name="addr">Champ de Mars, 75008 Paris, France</item>
+          <item name="site">http://www.tour-eiffel.fr/</item>
+          <item name="comment">Drinking wine in the shadow of the Eiffel tower was the best. I couldn't get over how tall it was.</item>
+          <item name="pic_filename">/system/customize/resource/EiffelTower.jpg</item>
+        </set>
+        <set name="plenty" max="13">
+          <item name="name">Colosseum</item>
+          <item name="create_date">1239629156964</item>
+          <item name="category">favorite</item>
+          <item name="rate">3</item>
+          <item name="accuracy">3</item>
+          <item name="latitude">41890169</item>
+          <item name="longitude">12492269</item>
+          <item name="addr">Piazza del Colosseo, 00184 Rome, Italy</item>
+          <item name="comment">On the second day in Rome we got to visit the Colosseum. You could almost hear the sounds of the gladiators.</item>
+          <item name="pic_filename">/system/customize/resource/Colosseum.jpg</item>
+        </set>
+        <set name="plenty" max="13">
+          <item name="name">Statue of Liberty</item>
+          <item name="create_date">1239629156963</item>
+          <item name="category">favorite</item>
+          <item name="rate">3</item>
+          <item name="accuracy">3</item>
+          <item name="latitude">40689200</item>
+          <item name="longitude">-74044500</item>
+          <item name="addr">National Park Services Liberty Island New York, NY 10004, USA</item>
+          <item name="site">http://www.nps.gov/stli/</item>
+          <item name="comment">I was really impressed with her beauty. For a second I thought she winked at me.</item>
+          <item name="pic_filename">/system/customize/resource/StatueOfLiberty.jpg</item>
+        </set>
+      </function>
+    </module>
+  </category>
+  <BootConfiguration>
+    <BootAnimation animation="/system/customize/resource/bootanimation.zip" audio="/system/customize/resource/android_audio.mp3" />
+  </BootConfiguration>
+</customization_form>

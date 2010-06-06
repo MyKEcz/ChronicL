@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ * Copyright (C) 2008 HTC Inc.
+ *
+ -->
+
+<!-- For new bootup animation
+<BootConfiguration>	
+ <BootAnimation
+    image="/system/media/bootscreen/boot.gif"
+    audio="/system/media/bootscreen/boot.mp3"
+    image2="/system/media/bootscreen/boot2.gif"       (optional)
+    image3="/system/media/bootscreen/boot3.gif"       (optional)
+    screenX="100"                          (optional)
+    screenY="130"                          (optional)
+    image_bg = "/system/media/bootscreen/boot_bg.gif" (optional)
+    useAudio="0" // 1: true ; 0:false      (optional) 
+ />
+</BootConfiguration>
+-->
+
+
+<!-- For cropped version -->
+<BootConfiguration>	
+ <BootAnimation
+    image="/system/media/bootscreen/hvga_android_006spf.gif"
+    image2="/system/media/bootscreen/hvga_htc_in_006spf.gif"
+    image3="/system/media/bootscreen/hvga_htc_loop_006spf.gif"
+    loopimage="/system/media/bootscreen/hvga_htc_loop_006spf.gif"
+    image_bg="/system/media/bootscreen/boot_bg.gif" 
+    audio="/system/media/bootscreen/boot.mp3"
+    screenX="0"
+    screenY="55"
+    useAudio="1"
+ />
+</BootConfiguration>
+
+
+<!-- For full screen version -->
+<!--BootConfiguration>	
+ <BootAnimation
+    image="/system/media/bootscreen/boot.gif"
+    audio="/system/media/bootscreen/boot.mp3"
+    useAudio="1"
+ />
+</BootConfiguration-->
