@@ -1,6 +1,6 @@
-TaskID : 126531
+TaskID : 122483
 Project : Legend
 SKU : HTC WWE[405]
-ROM Ver : 1.31.405.5
-Customization Id : 34963
-RCMS Id : 364
+ROM Ver : 1.31.405.4
+Customization Id : 25867
+RCMS Id : 268

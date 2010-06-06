@@ -1,12 +1,11 @@
 ro.ril.ecc.HTC-ELL=92,93,94
+ro.ril.ecc.HTC-FRA=123,911
 ro.ril.ecc.HTC-WWE=999
-ro.ril.hsdpa.category=8
-ro.ril.hsupa.category=5
-ro.ril.hsxpa=2
-ro.ril.disable.fd.plmn.prefix=23402,23410,23411
 ro.ril.enable.sdr=0
 ro.ril.enable.a52.HTC-ITA=1
 ro.ril.enable.a53.HTC-ITA=1
+ro.ril.enable.a52.VODA-Portugal=0
+ro.ril.enable.a53.VODA-Portugal=1
 ro.com.google.clientidbase=android-htc
 ro.com.google.clientidbase=android-htc
 # begin build properties
@@ -17,11 +16,11 @@ ro.build.version.incremental=154058
 ro.build.version.sdk=7
 ro.build.version.codename=REL
 ro.build.version.release=2.1
-ro.build.date=Fri Apr 30 00:01:02 CST 2010
-ro.build.date.utc=1272556862
+ro.build.date=Tue Mar 23 17:54:09 CST 2010
+ro.build.date.utc=1269338049
 ro.build.type=user
 ro.build.user=root
-ro.build.host=Oven-X04
+ro.build.host=Oven-X06
 ro.build.tags=release-keys
 ro.product.model=HTC Legend
 ro.product.brand=htc_wwe
@@ -37,12 +36,12 @@ ro.board.platform=msm7k
 # ro.build.product is obsolete; use ro.product.device
 ro.build.product=legend
 # Do not try to parse ro.build.description or .fingerprint
-ro.build.description=1.31.405.5 CL154058 release-keys
-ro.build.description=1.31.405.5 CL154058 release-keys
+ro.build.description=1.31.405.4 CL154058 release-keys
+ro.build.description=1.31.405.4 CL154058 release-keys
 ro.build.changelist=154058
 ro.product.ua=
 ro.build.fingerprint=htc_wwe/htc_legend/legend/legend:2.1/ERD79/154058:user/release-keys
-ro.product.version=1.31.405.5
+ro.product.version=1.31.405.4
 keyguard.no_require_sim=1
 # end build properties
 #

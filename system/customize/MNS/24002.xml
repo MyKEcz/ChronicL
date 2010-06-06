@@ -701,559 +701,9 @@
     <module name="Newsstand">
       <function name="feeds">
         <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">CNN.com - Top Stories</item>
-          <item name="url">http://rss.cnn.com/rss/cnn_topstories.rss</item>
-          <item name="default">default</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">Yahoo! News - Top Stories</item>
-          <item name="url">http://rss.news.yahoo.com/rss/topstories</item>
-          <item name="default">default</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">NY Times</item>
-          <item name="url">http://feeds.nytimes.com/nyt/rss/HomePage</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">USA Today</item>
-          <item name="url">http://content.usatoday.com/marketing/rss/rsstrans.aspx?feedId=news1</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">BBC News</item>
-          <item name="url">http://news.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml</item>
-          <item name="default">default</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">Washingtonpost-Today's Highlights</item>
-          <item name="url">http://feeds.washingtonpost.com/wp-dyn/rss/linkset/2005/03/24/LI2005032400102_xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">Google News</item>
-          <item name="url">http://news.google.com/?output=rss</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">Reuters: Top News</item>
-          <item name="url">http://feeds.reuters.com/reuters/topNews</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">The Huffington Post</item>
-          <item name="url">http://feeds.huffingtonpost.com/huffingtonpost/LatestNews</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">FOXNews.com</item>
-          <item name="url">http://feeds.foxnews.com/foxnews/latest</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">Los Angeles Times - Top News</item>
-          <item name="url">http://feeds.latimes.com/latimes/news</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">Guardian Unlimited</item>
-          <item name="url">http://www.guardian.co.uk/rssfeed/0,15065,1,00.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">Times Online</item>
-          <item name="url">http://feeds.timesonline.co.uk/c/32313/f/440158/index.rss</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">MSNBC: Top Headlines</item>
-          <item name="url">http://rss.msnbc.msn.com/id/3032091/device/rss/for/mobile/rss.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">News</item>
-          <item name="channel">Slate Magazine</item>
-          <item name="url">http://www.slate.com/rss/</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">Wall Street Journal</item>
-          <item name="url">http://online.wsj.com/xml/rss/3_7011.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">Business Week</item>
-          <item name="url">http://www.businessweek.com/rss/bwdaily.rss</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">Fast Company</item>
-          <item name="url">http://feeds.feedburner.com/fastcompany/headlines</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">NY Times Business</item>
-          <item name="url">http://feeds.nytimes.com/nyt/rss/Business</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">Yahoo! News: Business News</item>
-          <item name="url">http://rss.news.yahoo.com/rss/business</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">USA Today Money</item>
-          <item name="url">http://content.usatoday.com/marketing/rss/rsstrans.aspx?feedId=money1</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">BBC Business</item>
-          <item name="url">http://newsrss.bbc.co.uk/rss/newsonline_world_edition/business/rss.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">Reuters: Business News</item>
-          <item name="url">http://feeds.reuters.com/reuters/businessNews</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">HuffingtonPost Business</item>
-          <item name="url">http://www.huffingtonpost.com/feeds/verticals/business/index.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">FOXBusiness.com</item>
-          <item name="url">http://feeds.foxnews.com/foxnews/business</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">L.A. Times – Business News</item>
-          <item name="url">http://feeds.latimes.com/latimes/business</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">L.A. Times – Personal Finance</item>
-          <item name="url">http://feeds.latimes.com/latimes/business/investing</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">AP Top Business News</item>
-          <item name="url">http://hosted.ap.org/lineups/BUSINESSHEADS-rss_2.0.xml?SITE=WIJAN&amp;SECTION=HOME</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">Business News (CP)</item>
-          <item name="url">http://www.canadianbusiness.com/rss/business.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">MSNBC Business</item>
-          <item name="url">http://rss.msnbc.msn.com/id/3032071/device/rss/for/mobile/rss.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">Market News (CP)</item>
-          <item name="url">http://www.canadianbusiness.com/content/FEEDS/RSS/markets.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Business</item>
-          <item name="channel">Harvard Business Review</item>
-          <item name="url">http://feeds.harvardbusiness.org/harvardbusiness/</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">Wired Top Stories</item>
-          <item name="url">http://feeds.wired.com/wired/index?format=xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">Wired News</item>
-          <item name="url">http://feeds.wired.com/wired/index</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">Wired Product Review</item>
-          <item name="url">http://www.wired.com/reviews/feeds/latestProductsRss</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">Engadget</item>
-          <item name="url">http://www.engadget.com/rss.xml</item>
-          <item name="default">default</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">Gizmodo</item>
-          <item name="url">http://feeds.gawker.com/gizmodo/full</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">CNET News.com - The Net</item>
-          <item name="url">http://news.com.com/2547-1023_3-0-5.xml</item>
-          <item name="default">default</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">InfoWorld: Top News</item>
-          <item name="url">http://www.infoworld.com/rss/news.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">Geek.com</item>
-          <item name="url">http://www.geek.com/feed/</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">Slashdot</item>
-          <item name="url">http://rss.slashdot.org/Slashdot/slashdot</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">Ars Technica</item>
-          <item name="url">http://feeds.arstechnica.com/arstechnica/index/</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">Techcrunch</item>
-          <item name="url">http://feeds.feedburner.com/TechCrunch</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">The Register</item>
-          <item name="url">http://www.theregister.co.uk/headlines.rss</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">InfoWorld Blogs</item>
-          <item name="url">http://www.infoworld.com/blogs/feed</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">CNN Technology</item>
-          <item name="url">http://rss.cnn.com/rss/edition_technology.rss</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">Yahoo! News: Technology News</item>
-          <item name="url">http://rss.news.yahoo.com/rss/tech</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">NY Times Technology</item>
-          <item name="url">http://feeds.nytimes.com/nyt/rss/Technology</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">USA Today Tech – Top Stories</item>
-          <item name="url">http://content.usatoday.com/marketing/rss/rsstrans.aspx?feedId=tech1</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">BBC Technology</item>
-          <item name="url">http://newsrss.bbc.co.uk/rss/newsonline_world_edition/technology/rss.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">Reuters: Technology News</item>
-          <item name="url">http://feeds.reuters.com/reuters/technologyNews</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">HuffingtonPost Technology</item>
-          <item name="url">http://www.huffingtonpost.com/feeds/verticals/technology/index.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">FOXNews SciTech</item>
-          <item name="url">http://feeds.foxnews.com/foxnews/scitech</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">L.A. Times – Technology News</item>
-          <item name="url">http://feeds.latimes.com/latimes/technology</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">msnbc.com: Technology &amp; Science </item>
-          <item name="url">http://rss.msnbc.msn.com/id/3032117/device/rss/for/mobile/rss.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">01net. Les dossiers Entreprise</item>
-          <item name="url">http://www.01net.com/rss/dossiersentreprise.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">jkOnTheRun</item>
-          <item name="url">http://feeds.feedburner.com/jkOnTheRun</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Technology</item>
-          <item name="channel">AP Top Technology News</item>
-          <item name="url">http://hosted.ap.org/lineups/TECHHEADS-rss_2.0.xml?SITE=INLAF&amp;SECTION=HOME</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">Pocket PC Thoughts</item>
-          <item name="url">http://feeds.pocketpcthoughts.com/pocketpcthoughts</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">Smartphone Thoughts</item>
-          <item name="url">http://www.smartphonethoughts.com/xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">Geekzone, mobile forums</item>
-          <item name="url">http://feeds.geekzone.co.nz/geekzone</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">Brighthand</item>
-          <item name="url">http://www.brighthand.com/rss.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">pocketnow.com</item>
-          <item name="url">http://feeds.feedburner.com/pocketnow</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">The Gadgeteer</item>
-          <item name="url">http://the-gadgeteer.com/feed/</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">Aximsite</item>
-          <item name="url">http://feeds.feedburner.com/aximsiterss</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">infoSync World</item>
-          <item name="url">http://www.infosyncworld.com/feed/rss/index.php</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">Astraware</item>
-          <item name="url">http://www.astraware.com/rss.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">Mobility Today</item>
-          <item name="url">http://mobilitytoday.com/mobilitytoday.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">Clinton Fitch. Com!</item>
-          <item name="url">http://feeds.feedburner.com/ClintonFitchDotCom</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">The Register - Mobile</item>
-          <item name="url">http://www.theregister.co.uk/networks/mobile/headlines.rss</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">Engadget Mobile</item>
-          <item name="url">http://www.engadgetmobile.com/rss.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">4WinMobile - News Bites</item>
-          <item name="url">http://www.4winmobile.com/forums/external.php?type=RSS2&amp;amp;forumids=59</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">Just Another Mobile Monday</item>
-          <item name="url">http://feeds.feedburner.com/JustAnotherMobileMonday</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">Gear Diary</item>
-          <item name="url">http://feeds.feedburner.com/GearDiary</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">Pocket PC Addict</item>
-          <item name="url">http://feeds.feedburner.com/PocketPCAddict/</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">Mobility Site</item>
-          <item name="url">http://feeds.feedburner.com/MobilitySite</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Mobile devices</item>
-          <item name="channel">TreoCentral</item>
-          <item name="url">http://www.treocentral.com/rss.php</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Travel</item>
-          <item name="channel">CNN Travel</item>
-          <item name="url">http://rss.cnn.com/rss/edition_travel.rss</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Travel</item>
-          <item name="channel">USA Today Travel</item>
-          <item name="url">http://content.usatoday.com/marketing/rss/rsstrans.aspx?feedId=travel1</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Travel</item>
-          <item name="channel">HuffingtonPost Style</item>
-          <item name="url">http://www.huffingtonpost.com/feeds/verticals/style/index.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Travel</item>
-          <item name="channel">Times Online Travel News</item>
-          <item name="url">http://feeds.timesonline.co.uk/c/32313/f/463696/index.rss</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Travel</item>
-          <item name="channel">msnbc.com: Travel</item>
-          <item name="url">http://rss.msnbc.msn.com/id/3032122/device/rss/for/mobile/rss.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Health</item>
-          <item name="channel">Yahoo! News: Health News</item>
-          <item name="url">http://rss.news.yahoo.com/rss/health</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Health</item>
-          <item name="channel">BBC Health</item>
-          <item name="url">http://newsrss.bbc.co.uk/rss/newsonline_world_edition/health/rss.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Health</item>
-          <item name="channel">Reuters: Health News</item>
-          <item name="url">http://feeds.reuters.com/reuters/healthNews</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Health</item>
-          <item name="channel">FOXNews Health</item>
-          <item name="url">http://feeds.foxnews.com/foxnews/health</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Health</item>
-          <item name="channel">msnbc.com: Health</item>
-          <item name="url">http://rss.msnbc.msn.com/id/3088327/device/rss/for/mobile/rss.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Photography</item>
-          <item name="channel">Digital Photography School</item>
-          <item name="url">http://feeds2.feedburner.com/DigitalPhotographySchool</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Photography</item>
-          <item name="channel">Photojojo</item>
-          <item name="url">http://feeds2.feedburner.com/Photojojo</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Food</item>
-          <item name="channel">blog.khymos.org</item>
-          <item name="url">http://blog.khymos.org/feed/</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Food</item>
-          <item name="channel">Chadzilla</item>
-          <item name="url">http://chadzilla.typepad.com/chadzilla/atom.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Food</item>
-          <item name="channel">Fat of the Land</item>
-          <item name="url">http://fat-of-the-land.blogspot.com/feeds/posts/default</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Food</item>
-          <item name="channel">Cooking Issues</item>
-          <item name="url">http://cookingissues.wordpress.com/feed/</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Food</item>
-          <item name="channel">Hungry In Hogtown</item>
-          <item name="url">http://feeds2.feedburner.com/HungryInHogtown</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Food</item>
-          <item name="channel">Ideas In Food</item>
-          <item name="url">http://feeds.feedburner.com/IdeasInFood</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Food</item>
-          <item name="channel">Workbook</item>
-          <item name="url">http://mlaiskonis.typepad.com/workbook/</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Food</item>
-          <item name="channel">The Kitchn</item>
-          <item name="url">http://feeds.feedburner.com/apartmenttherapy/thekitchn</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Architecture</item>
-          <item name="channel">Build Blog</item>
-          <item name="url">http://buildllc.wordpress.com/feed/</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Architecture</item>
-          <item name="channel">Green Building : Jetson Green</item>
-          <item name="url">http://feeds.feedburner.com/jetson_green</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Architecture</item>
-          <item name="channel">Modern House Designs</item>
-          <item name="url">http://www.trendir.com/house-design/atom.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Design</item>
-          <item name="channel">Apartment Therapy New York</item>
-          <item name="url">http://www.apartmenttherapy.com/index.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Design</item>
-          <item name="channel">Better Living Through Design</item>
-          <item name="url">http://www.betterlivingthroughdesign.com/atom.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Design</item>
-          <item name="channel">Cool Hunting</item>
-          <item name="url">http://www.coolhunting.com/atom.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Design</item>
-          <item name="channel">LifeClever</item>
-          <item name="url">http://feeds.feedburner.com/lifeclever</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Design</item>
-          <item name="channel">MoCoLoco</item>
-          <item name="url">http://mocoloco.com/index.rdf</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Design</item>
-          <item name="channel">Uncrate</item>
-          <item name="url">http://feeds.feedburner.com/uncrate</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Design</item>
-          <item name="channel">Yanko Design</item>
-          <item name="url">http://feeds.feedburner.com/yankodesign</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Blogs</item>
-          <item name="channel">The Huffington Post Full Blog</item>
-          <item name="url">http://feeds.huffingtonpost.com/huffingtonpost/TheBlog</item>
-        </set>
-        <set name="plenty" max="10">
           <item name="category">Blogs</item>
           <item name="channel">Mobile Opportunity</item>
           <item name="url">http://feeds.feedburner.com/MobileOpportunity</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Blogs</item>
-          <item name="channel">The Mobile Gadgeteer</item>
-          <item name="url">http://blogs.zdnet.com/mobile-gadgeteer/wp-rss2.php</item>
         </set>
         <set name="plenty" max="10">
           <item name="category">Blogs</item>
@@ -1267,22 +717,237 @@
         </set>
         <set name="plenty" max="10">
           <item name="category">Blogs</item>
+          <item name="channel">The Mobile Gadgeteer</item>
+          <item name="url">http://blogs.zdnet.com/mobile-gadgeteer/wp-rss2.php</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Blogs</item>
           <item name="channel">The Two Inch View</item>
           <item name="url">http://feeds.feedburner.com/twoinchview</item>
         </set>
         <set name="plenty" max="10">
-          <item name="category">Blogs</item>
-          <item name="channel">Fail Blog</item>
-          <item name="url">http://feeds.feedburner.com/failblog?format=xml</item>
+          <item name="category">Computer security</item>
+          <item name="channel">Microsoft Security Bulletins</item>
+          <item name="url">http://www.microsoft.com/technet/security/bulletin/secrss.aspx</item>
         </set>
         <set name="plenty" max="10">
-          <item name="category">Blogs</item>
-          <item name="channel">Lolcats</item>
-          <item name="url">http://feeds.feedburner.com/ICanHasCheezburger?format=xml</item>
+          <item name="category">Computer security</item>
+          <item name="channel">US-CERT Cyber Security Alerts and Tips</item>
+          <item name="url">http://www.us-cert.gov/channels/userdocs.rdf</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Computer security</item>
+          <item name="channel">US-CERT Technical Alerts and Bulletins</item>
+          <item name="url">http://www.us-cert.gov/channels/techdocs.rdf</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Entertainment</item>
+          <item name="channel">BBC News | Entertainment | World Edition</item>
+          <item name="url">http://news.bbc.co.uk/rss/newsonline_world_edition/entertainment/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Entertainment</item>
+          <item name="channel">ComingSoon.net - 10 most recent stories</item>
+          <item name="url">http://www.comingsoon.net/news/rss-movie-10.php</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Entertainment</item>
+          <item name="channel">msnbc.com</item>
+          <item name="url">http://rss.msnbc.msn.com/id/3032083/device/rss/for/mobile/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Entertainment</item>
+          <item name="channel">Netflix New Releases This Week</item>
+          <item name="url">http://rss.netflix.com/NewReleasesRSS</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Entertainment</item>
+          <item name="channel">Netflix Top 100</item>
+          <item name="url">http://rss.netflix.com/Top100RSS</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Entertainment</item>
+          <item name="channel">Reuters: Entertainment News</item>
+          <item name="url">http://feeds.reuters.com/reuters/entertainment</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Entertainment</item>
+          <item name="channel">The Onion</item>
+          <item name="url">http://www.theonion.com/content/feeds/daily</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Entertainment</item>
+          <item name="channel">Yahoo! News: Entertainment News</item>
+          <item name="url">http://rss.news.yahoo.com/rss/entertainment</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Life style</item>
+          <item name="channel">msnbc.com: Health</item>
+          <item name="url">http://rss.msnbc.msn.com/id/3088327/device/rss/for/mobile/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Life style</item>
+          <item name="channel">msnbc.com: Travel</item>
+          <item name="url">http://rss.msnbc.msn.com/id/3032122/device/rss/for/mobile/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">4WinMobile.com</item>
+          <item name="url">http://www.4winmobile.com/forums/external.php?type=RSS2&amp;amp;forumids=59</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">Astraware</item>
+          <item name="url">http://www.astraware.com/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">Brighthand.com Handheld News and Reviews</item>
+          <item name="url">http://www.brighthand.com/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">ClintonFitch.com News &amp; Information</item>
+          <item name="url">http://feeds.feedburner.com/ClintonFitchDotCom</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">Engadget Mobile</item>
+          <item name="url">http://www.engadgetmobile.com/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">Gear Diary</item>
+          <item name="url">http://feeds.feedburner.com/GearDiary</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">Geekzone Technology Community</item>
+          <item name="url">http://feeds.geekzone.co.nz/geekzone</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">Ilium Software List Exchange</item>
+          <item name="url">http://www.iliumsoft.com/listexchange.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">infoSync World</item>
+          <item name="url">http://www.infosyncworld.com/feed/rss/index.php</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">Just Another Mobile Monday</item>
+          <item name="url">http://feeds.feedburner.com/JustAnotherMobileMonday</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">Mobile News, Reviews, and Views</item>
+          <item name="url">http://feeds.feedburner.com/MobilitySite</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">Mobility Site</item>
+          <item name="url">http://www.mobilitysite.com/boards/external.php?type=RSS2</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">Mobility Today</item>
+          <item name="url">http://mobilitytoday.com/mobilitytoday.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">pocketnow.com</item>
+          <item name="url">http://feeds.feedburner.com/pocketnow</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">Pocket PC Addict</item>
+          <item name="url">http://feeds.feedburner.com/PocketPCAddict</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">Smartphone Thoughts.com</item>
+          <item name="url">http://www.smartphonethoughts.com/xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">The Gadgeteer</item>
+          <item name="url">http://the-gadgeteer.com/feed/</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">The Register - Networks: Mobile</item>
+          <item name="url">http://www.theregister.co.uk/networks/mobile/headlines.rss</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Mobile device</item>
+          <item name="channel">TreoCentral</item>
+          <item name="url">http://www.treocentral.com/rss.php</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">News</item>
+          <item name="channel">BBC News | News Front Page | World Edition</item>
+          <item name="url">http://news.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">News</item>
+          <item name="channel">CNET News.com</item>
+          <item name="url">http://news.cnet.com/2547-1_3-0-20.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">News</item>
+          <item name="channel">CNN.com</item>
+          <item name="url">http://rss.cnn.com/rss/cnn_topstories.rss</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">News</item>
+          <item name="channel">Fast Company</item>
+          <item name="url">http://www.fastcompany.com/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">News</item>
+          <item name="channel">Guardian Unlimited</item>
+          <item name="url">http://www.guardian.co.uk/rssfeed/0,15065,1,00.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">News</item>
+          <item name="channel">msnbc.com: Business</item>
+          <item name="url">http://rss.msnbc.msn.com/id/3032071/device/rss/for/mobile/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">News</item>
+          <item name="channel">msnbc.com: Politics</item>
+          <item name="url">http://rss.msnbc.msn.com/id/3032552/device/rss/for/mobile/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">News</item>
+          <item name="channel">msnbc.com: Top msnbc.com headlines</item>
+          <item name="url">http://rss.msnbc.msn.com/id/3032091/device/rss/for/mobile/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">News</item>
+          <item name="channel">msnbc.com: U.S. news</item>
+          <item name="url">http://rss.msnbc.msn.com/id/3032524/device/rss/for/mobile/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">News</item>
+          <item name="channel">msnbc.com: World news</item>
+          <item name="url">http://rss.msnbc.msn.com/id/3032506/device/rss/for/mobile/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">News</item>
+          <item name="channel">Slate Magazine</item>
+          <item name="url">http://www.slate.com/rss/</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">News</item>
+          <item name="channel">Wired Top Stories</item>
+          <item name="url">http://feeds.wired.com/wired/index</item>
         </set>
         <set name="plenty" max="10">
           <item name="category">Shopping</item>
-          <item name="channel">Amazon.com: Today's Deals</item>
+          <item name="channel">Amazon.com Gold Box Deals</item>
           <item name="url">http://rssfeeds.s3.amazonaws.com/goldbox</item>
         </set>
         <set name="plenty" max="10">
@@ -1292,88 +957,8 @@
         </set>
         <set name="plenty" max="10">
           <item name="category">Shopping</item>
-          <item name="channel">Woot - One Day, One Deal</item>
+          <item name="channel">Woot! - One Day, One Deal</item>
           <item name="url">http://www.woot.com/blog/rss.aspx</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">CNN Entertainment</item>
-          <item name="url">http://rss.cnn.com/rss/edition_entertainment.rss</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">Yahoo! News: Entertainment News</item>
-          <item name="url">http://rss.news.yahoo.com/rss/entertainment</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">USA Today Life</item>
-          <item name="url">http://content.usatoday.com/marketing/rss/rsstrans.aspx?feedId=life1</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">Reuters Entertainment News</item>
-          <item name="url">http://feeds.reuters.com/reuters/entertainment</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">BBC Entertainment News</item>
-          <item name="url">http://news.bbc.co.uk/rss/newsonline_world_edition/entertainment/rss.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">HuffingtonPost Entertainment</item>
-          <item name="url">http://www.huffingtonpost.com/feeds/verticals/entertainment/index.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">FOXNews Entertainment</item>
-          <item name="url">http://feeds.foxnews.com/foxnews/entertainment</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">Sci Fi Wire</item>
-          <item name="url">http://www.scifi.com/scifiwire/rss/index.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">L.A. Times – Entertainment</item>
-          <item name="url">http://feeds.latimes.com/latimes/entertainment/</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">msnbc.com: Entertainment</item>
-          <item name="url">http://rss.msnbc.msn.com/id/3032083/device/rss/for/mobile/rss.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">AP Top Entertainment News</item>
-          <item name="url">http://hosted.ap.org/lineups/ENTERTAINMENT-rss_2.0.xml?SITE=KTVK&amp;SECTION=HOME</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">CP: ENTERTAINMENT</item>
-          <item name="url">http://www.thetelegram.com/rss/cp/Telegram/entertainment.xml</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">Netflix Top 100</item>
-          <item name="url">http://rss.netflix.com/Top100RSS</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">Netflix New Releases This Week</item>
-          <item name="url">http://rss.netflix.com/NewReleasesRSS</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">The Onion - Daily Content</item>
-          <item name="url">http://www.theonion.com/content/feeds/daily</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Entertainment</item>
-          <item name="channel">ComingSoon.net</item>
-          <item name="url">http://www.comingsoon.net/news/rss-movie-10.php</item>
         </set>
         <set name="plenty" max="10">
           <item name="category">Sports</item>
@@ -1382,8 +967,8 @@
         </set>
         <set name="plenty" max="10">
           <item name="category">Sports</item>
-          <item name="channel">ESPN.com - NFL</item>
-          <item name="url">http://sports.espn.go.com/espn/rss/nfl/news</item>
+          <item name="channel">ESPN.com - MLB</item>
+          <item name="url">http://sports.espn.go.com/espn/rss/mlb/news</item>
         </set>
         <set name="plenty" max="10">
           <item name="category">Sports</item>
@@ -1392,108 +977,113 @@
         </set>
         <set name="plenty" max="10">
           <item name="category">Sports</item>
+          <item name="channel">ESPN.com - NFL</item>
+          <item name="url">http://sports.espn.go.com/espn/rss/nfl/news</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Sports</item>
           <item name="channel">ESPN.com - NHL</item>
           <item name="url">http://sports.espn.go.com/espn/rss/nhl/news</item>
         </set>
         <set name="plenty" max="10">
           <item name="category">Sports</item>
-          <item name="channel">ESPN.com - MLB</item>
-          <item name="url">http://sports.espn.go.com/espn/rss/mlb/news</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Sports</item>
-          <item name="channel">CNN Sport</item>
-          <item name="url">http://rss.cnn.com/rss/edition_sport.rss</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Sports</item>
-          <item name="channel">NY Times Sports</item>
-          <item name="url">http://feeds.nytimes.com/nyt/rss/Technology</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Sports</item>
-          <item name="channel">Yahoo! News: Sports News</item>
-          <item name="url">http://rss.news.yahoo.com/rss/sports</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Sports</item>
-          <item name="channel">USA Today Sports</item>
-          <item name="url">http://content.usatoday.com/marketing/rss/rsstrans.aspx?feedId=sports1</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Sports</item>
-          <item name="channel">Reuters: Sports</item>
-          <item name="url">http://feeds.reuters.com/reuters/sportsNews</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Sports</item>
-          <item name="channel">L.A. Times – Sports</item>
-          <item name="url">http://feeds.latimes.com/latimes/sports/</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Sports</item>
-          <item name="channel">Times Online Sports News</item>
-          <item name="url">http://feeds.timesonline.co.uk/c/32313/f/463695/index.rss</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">Sports</item>
-          <item name="channel">msnbc.com - Sports</item>
+          <item name="channel">NBCSports.com: Sports</item>
           <item name="url">http://rss.nbcsports.msnbc.com/id/3032112/device/rss/for/mobile/rss.xml</item>
         </set>
         <set name="plenty" max="10">
           <item name="category">Sports</item>
-          <item name="channel">AP Top Sports News</item>
-          <item name="url">http://hosted.ap.org/lineups/SPORTSHEADS-rss_2.0.xml?SITE=KLIF&amp;SECTION=HOME</item>
+          <item name="channel">Reuters: Sports News</item>
+          <item name="url">http://feeds.reuters.com/reuters/sportsNews</item>
         </set>
         <set name="plenty" max="10">
-          <item name="category">Computer security</item>
-          <item name="channel">Microsoft Security Bulletins</item>
-          <item name="url">http://www.microsoft.com/technet/security/bulletin/secrss.aspx</item>
+          <item name="category">Technology</item>
+          <item name="channel">CNET News.com - Media</item>
+          <item name="url">http://news.cnet.com/2547-1023_3-0-5.xml</item>
         </set>
         <set name="plenty" max="10">
-          <item name="category">Computer security</item>
-          <item name="channel">CERT - All Technical Cyber Alert System Documents</item>
-          <item name="url">http://www.us-cert.gov/channels/techdocs.rdf</item>
+          <item name="category">Technology</item>
+          <item name="channel">Geek.com</item>
+          <item name="url">http://www.geek.com/feed/</item>
         </set>
         <set name="plenty" max="10">
-          <item name="category">Computer security</item>
-          <item name="channel">CERT - All Non-Technical Cyber Alert System Documents</item>
-          <item name="url">http://www.us-cert.gov/channels/userdocs.rdf</item>
+          <item name="category">Technology</item>
+          <item name="channel">Gizmodo</item>
+          <item name="url">http://feeds.gawker.com/gizmodo/full</item>
         </set>
         <set name="plenty" max="10">
-          <item name="category">World weather</item>
-          <item name="channel">USA Today Weather</item>
-          <item name="url">http://content.usatoday.com/marketing/rss/rsstrans.aspx?feedId=weather1</item>
+          <item name="category">Technology</item>
+          <item name="channel">InfoWorld Blogs</item>
+          <item name="url">http://www.infoworld.com/blogs/feed</item>
         </set>
         <set name="plenty" max="10">
-          <item name="category">World weather</item>
-          <item name="channel">New York Weather</item>
-          <item name="url">http://www.rssweather.com/wx/us/ny/new%20york/rss.php</item>
+          <item name="category">Technology</item>
+          <item name="channel">Infoworld News</item>
+          <item name="url">http://www.infoworld.com/news/feed</item>
         </set>
         <set name="plenty" max="10">
-          <item name="category">World weather</item>
+          <item name="category">Technology</item>
+          <item name="channel">jkOnTheRun</item>
+          <item name="url">http://feeds.feedburner.com/jkOnTheRun</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Technology</item>
+          <item name="channel">msnbc.com: Technology and Science</item>
+          <item name="url">http://rss.msnbc.msn.com/id/3032117/device/rss/for/mobile/rss.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Technology</item>
+          <item name="channel">01net. Les actualites Entreprise</item>
+          <item name="url">http://www.01net.com/rss/dossiersentreprise.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Technology</item>
+          <item name="channel">Slashdot</item>
+          <item name="url">http://rss.slashdot.org/Slashdot/slashdot</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Technology</item>
+          <item name="channel">The Register</item>
+          <item name="url">http://www.theregister.co.uk/headlines.rss</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Video</item>
+          <item name="channel">GeekBrief.TV | Windows Media Edition</item>
+          <item name="url">http://www.podshow.com/feeds/gbtvwindows.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Video</item>
+          <item name="channel">Rocketboom (WMV)</item>
+          <item name="url">http://www.rocketboom.com/rss/wmv.xml</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Weather</item>
+          <item name="channel">Atlanta, Georgia Weather I</item>
+          <item name="url">http://www.rssweather.com/rss.php?config=&amp;forecast=zandh&amp;icao=RJTT&amp;alt=rss20a</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Weather</item>
+          <item name="channel">Atlanta, Georgia Weather II</item>
+          <item name="url">http://www.rssweather.com/rss.php?config=&amp;forecast=zandh&amp;icao=LFPG&amp;alt=rss20a</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Weather</item>
+          <item name="channel">Atlanta, Georgia Weather III</item>
+          <item name="url">http://www.rssweather.com/rss.php?config=&amp;forecast=zandh&amp;icao=EGKK&amp;alt=rss20a</item>
+        </set>
+        <set name="plenty" max="10">
+          <item name="category">Weather</item>
           <item name="channel">msnbc.com: Weather</item>
           <item name="url">http://rss.msnbc.msn.com/id/3032127/device/rss/for/mobile/rss.xml</item>
         </set>
         <set name="plenty" max="10">
-          <item name="category">World weather</item>
-          <item name="channel">London, Gatwick Weather </item>
-          <item name="url">http://www.rssweather.com/rss.php?config=&amp;amp;forecast=zandh&amp;amp;icao=EGKK&amp;amp;alt=rss20a</item>
+          <item name="category">Weather</item>
+          <item name="channel">New York, New York Weather</item>
+          <item name="url">http://www.rssweather.com/wx/us/ny/new%20york/rss.php</item>
         </set>
         <set name="plenty" max="10">
-          <item name="category">World weather</item>
-          <item name="channel">Paris-Aeroport Charles De Gaulle, France Weather</item>
-          <item name="url">http://www.rssweather.com/rss.php?config=&amp;amp;forecast=zandh&amp;amp;icao=LFPG&amp;amp;alt=rss20a</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">World weather</item>
-          <item name="channel">San Francisco Weather</item>
+          <item name="category">Weather</item>
+          <item name="channel">San Francisco, California Weather</item>
           <item name="url">http://www.rssweather.com/wx/us/ca/san%20francisco/rss.php</item>
-        </set>
-        <set name="plenty" max="10">
-          <item name="category">World weather</item>
-          <item name="channel">Tokyo Weather</item>
-          <item name="url">http://www.rssweather.com/rss.php?config=&amp;amp;forecast=zandh&amp;amp;icao=RJTT&amp;amp;alt=rss20a</item>
         </set>
       </function>
     </module>
@@ -1822,10 +1412,6 @@
       </function>
       <!-- Default text encoding -->
       <function name="default_text_encoding">
-        <set name="single" />
-      </function>
-      <!-- Location_Setting -->
-      <function name="geolocation">
         <set name="single" />
       </function>
     </module>
